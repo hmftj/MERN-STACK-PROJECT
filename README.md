@@ -44,8 +44,8 @@ Demo site link
 Instructions to install
 
 Screenshots
-
-Live at https://youtu.be/H8B6OgDlRL4
+Live Demo at : https://hmftj.com/myreact/
+Video  at : https://youtu.be/H8B6OgDlRL4
 
 💰 3. Pricing Suggestion
 Start around $199 – $299 for early templates, then go higher with features like:
